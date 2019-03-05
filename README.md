@@ -35,7 +35,8 @@
 
 #### Pure Python
 
-https://www.w3schools.com/python/default.asp
+Good set of links here:
+https://www.oreilly.com/ideas/10-top-python-resources-on-oreillys-online-learning-platform
 
 
 
