@@ -31,13 +31,21 @@
 [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
 
 
-### Courses/tutorials
+### Resources
+[Learn Python](https://www.oreilly.com/ideas/10-top-python-resources-on-oreillys-online-learning-platform)
 
-#### Pure Python
+[Activation Atlass from Distill](https://distill.pub/2019/activation-atlas/)
 
-Good set of links here:
-https://www.oreilly.com/ideas/10-top-python-resources-on-oreillys-online-learning-platform
+[Overview of Deep Art from Distill](https://distill.pub/2018/differentiable-parameterizations/)
 
+Lots of colab notebooks with 'Deep art' examples (from [Seedbank](https://research.google.com/seedbank/))
+
+e.g.
+
+- [Neural Style Transfer](https://research.google.com/seedbank/seed/neural_style_transfer_with_tfkeras): Use deep learning to transfer style between images.
+- [EZ NSynth](https://research.google.com/seedbank/seed/ez_nsynth): Synthesize audio with WaveNet auto-encoders.
+- [DeepDream](https://research.google.com/seedbank/seed/deepdream): Produce DeepDream images from your own photos.
+- [Convolutional VAE](https://research.google.com/seedbank/seed/convolutional_vae): Create a generative model of handwritten digits.
 
 
 
